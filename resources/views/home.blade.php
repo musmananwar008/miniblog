@@ -56,8 +56,8 @@
         <div class="container">
 
             <h1 class="text-center ">Login or Register to add Post</h1>
-
             <h1 class="text-center ">List of All Posts</h1>
+            <h1 class="text-center ">List of All Posts Demo</h1>
             <table class="table">
                 <thead>
                 <tr>
